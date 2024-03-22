@@ -1,0 +1,4 @@
+[core]
+	editor = \"C:\\Users\\KonstantinK\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[safe]
+	directory = C:/Users/KonstantinK
