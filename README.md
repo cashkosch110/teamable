@@ -8,3 +8,5 @@ This is a Test file for teching students programming skills.
 ### To package the applicataion
 
     npm packgit
+
+Applicariton runs at Port 3000
